@@ -1,0 +1,19 @@
+- 入门
+    - [指南](zh-cn/guide)
+- 开发商类型
+    - [软件服务商](main/service)
+    - [普通商户](main/user)
+- 支付API
+    - [付款码支付(被扫)](api/payByQrcode)
+    - [扫码支付(主扫)](api/payByScan)
+    - [退款](api/refund)
+    - [支付状态](api/pay)
+- 会员API
+- 财务API
+    - [日对账](api/pay)
+    - [订单查询](api/pay)
+    - [订单详情](api/pay)
+- 数据API
+- 回调Webhooks
+    - [支付状态](api/pay)
+    - [退款状态](api/pay)
